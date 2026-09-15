@@ -7,5 +7,3 @@ Dissection du marché : Analyse approfondie des dynamiques quotidiennes des 40 p
 Analyse de tendances : Traduction visuelle et statistique de la "respiration" quotidienne de l'économie française à travers l'étude des cours d'ouverture et de clôture.
 
 Data Storytelling : Conception d'un support pédagogique et interactif, pensé aussi bien pour les passionnés de finance de marché que pour les professionnels de la Data.
-
-Compétences clés : Exploratory Data Analysis (EDA), Data Visualization, Finance de marché, Python (Pandas/Seaborn), Data Storytelling.
