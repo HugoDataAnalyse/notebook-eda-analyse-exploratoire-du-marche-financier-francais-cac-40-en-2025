@@ -1,9 +1,8 @@
-Développement d’un notebook complet d’Analyse Exploratoire de Données (EDA) visant à décoder et vulgariser le comportement de l'indice phare de la bourse de Paris (Euronext Paris) sur l'ensemble de l'année 2025. 
+📈 Analyse exploratoire de marché (Euronext Paris 2025)
+Développement d'un notebook complet (EDA) pour décoder et vulgariser le comportement de l'indice phare de la bourse de Paris.→ Traduction visuelle de la "respiration" économique française à travers les cours d’ouverture et de clôture.
 
-Objectifs et réalisations :
+🔬 Dissection boursière & Dynamiques sectorielles
+Analyse approfondie des variations quotidiennes des 40 plus grandes capitalisations françaises.→ Identification statistique des leaders économiques, des valeurs résilientes et des secteurs en difficulté.
 
-Dissection du marché : Analyse approfondie des dynamiques quotidiennes des 40 plus grandes capitalisations françaises pour identifier les leaders économiques et les secteurs en difficulté.
-
-Analyse de tendances : Traduction visuelle et statistique de la "respiration" quotidienne de l'économie française à travers l'étude des cours d'ouverture et de clôture.
-
-Data Storytelling : Conception d'un support pédagogique et interactif, pensé aussi bien pour les passionnés de finance de marché que pour les professionnels de la Data.
+🎨 Data Storytelling & Visualisation de données
+Conception d'un support pédagogique, interactif et hautement graphique pour simplifier la complexité des marchés.→ Restitution claire pensée aussi bien pour les passionnés de finance que pour les professionnels de la Data.
